@@ -1,4 +1,8 @@
-# Find the GCD of two numbers
+## EXPERIMENT: 3 
+## Find the GCD of two numbers
+## NAME: AVINASH T
+## REG NO: 212223230026
+## DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 
 ## AIM:
 To write a program to find the GCD of two numbers using function.
@@ -14,17 +18,16 @@ To write a program to find the GCD of two numbers using function.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-```
-/*
+```c
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: AVINASH T
+RegisterNumber:  212223230026
 ```
+![image](https://github.com/AVINASH05T/GCD-of-two-numbers/assets/151514286/1af0bad5-368c-46a6-8e92-67cb408811ab)
 
 ## Output:
 
-
+![image](https://github.com/AVINASH05T/GCD-of-two-numbers/assets/151514286/87c1030d-2727-49ab-8852-9f2ce5e4ce01)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
