@@ -1,4 +1,4 @@
-## EXPERIMENT: 3 
+## EXPERIMENT: 4
 ## Find the GCD of two numbers
 ## NAME: AVINASH T
 ## REG NO: 212223230026
