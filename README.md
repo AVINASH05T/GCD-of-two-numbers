@@ -1,5 +1,5 @@
-## EXPERIMENT: 4
-## Find the GCD of two numbers
+# EXPERIMENT: 4
+# Find the GCD of two numbers
 ## NAME: AVINASH T
 ## REG NO: 212223230026
 ## DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
@@ -22,6 +22,12 @@ To write a program to find the GCD of two numbers using function.
 Program to find the gcd of two number using function.
 Developed by: AVINASH T
 RegisterNumber:  212223230026
+def gcd():
+   a=int(input())
+   b=int(input())
+   while b!=0:
+     a,b=b,a%b
+   print("GCD of two numbers is:",a)
 ```
 ![image](https://github.com/AVINASH05T/GCD-of-two-numbers/assets/151514286/1af0bad5-368c-46a6-8e92-67cb408811ab)
 
